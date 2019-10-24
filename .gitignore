@@ -1,0 +1,11 @@
+#Gitignore file
+
+#Files to ignore:
+
+#LastFM Example
+config_last_fm.ipynb
+config_last_fm.py
+
+#General
+__pycache__
+.ipynb_checkpoints
