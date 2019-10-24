@@ -9,3 +9,4 @@ config_last_fm.py
 #General
 __pycache__
 .ipynb_checkpoints
+API/Keys/Twitter Keys.csv
