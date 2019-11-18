@@ -5,6 +5,8 @@
 #LastFM Example
 config_last_fm.ipynb
 config_last_fm.py
+config_reddit.py
+
 
 #General
 __pycache__
