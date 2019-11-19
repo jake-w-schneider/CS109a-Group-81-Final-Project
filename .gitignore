@@ -12,3 +12,5 @@ config_reddit.py
 __pycache__
 .ipynb_checkpoints
 API/Keys/Twitter Keys.csv
+API/Keys/Reddit Keys.csv
+API/Twitter/Eric Curl code
