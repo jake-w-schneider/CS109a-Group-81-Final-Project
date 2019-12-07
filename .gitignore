@@ -2,11 +2,12 @@
 
 #Files to ignore:
 
-#LastFM Example
+#Files
 config_last_fm.ipynb
 config_last_fm.py
 config_reddit.py
-
+config_twitter.py
+yaml_file.ipynb
 
 #General
 __pycache__
