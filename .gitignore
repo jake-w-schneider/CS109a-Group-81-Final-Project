@@ -7,7 +7,10 @@ config_last_fm.ipynb
 config_last_fm.py
 config_reddit.py
 config_twitter.py
+<<<<<<< HEAD
+=======
 yaml_file.ipynb
+>>>>>>> origin/master
 
 #General
 __pycache__
