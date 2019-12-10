@@ -1,0 +1,5 @@
+search_tweets_api:
+  account_type: premium
+  consumer_key: 6hFd5afQKfev1VkY4O66skEwY
+  consumer_secret: CC6HF1ES7kiC9en6QSIaRjDbd0FyZHWMIvgSNFtNRx5wBXIhWB
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/elections.json
