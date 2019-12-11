@@ -18,3 +18,5 @@ __pycache__
 API/Keys/Twitter Keys.csv
 API/Keys/Reddit Keys.csv
 API/Twitter/Eric Curl code
+API/Reddit/post_matrix.csv
+API/Reddit/reddit_test_posts_cleaned.csv
